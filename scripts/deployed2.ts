@@ -16,8 +16,8 @@ async function main() {
 
     const contractAddress_0n_rinkrby = "0x7600FC73cA5E69bcfDE8d0b6ca6824035429464E";
 
+    const url = "https://testnets.opensea.io/assets/rinkeby/0x7600fc73ca5e69bcfde8d0b6ca6824035429464e/0";
 
-    const url = "https://testnets.opensea.io/collection/codes-v2-1";
     
 }
 
