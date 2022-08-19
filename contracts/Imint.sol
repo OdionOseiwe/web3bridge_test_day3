@@ -1,6 +1,6 @@
-// SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.9;
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.4;
 
-interface Imint {
-    function mint(address to) external;
+interface IoseNft {
+    function safeMint(address to, string memory uri) external;
 }
